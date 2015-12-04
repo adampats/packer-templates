@@ -13,7 +13,7 @@
       "instance_type": "t2.micro",
       "ssh_username": "ubuntu",
       "ami_name": "ubuntu 14.04 {{timestamp}}",
-      "ami_regions": [ "us-west-2", "us-east-1" ]
+      "ami_regions": [ "us-west-2" ]
     }
   ],
   "provisioners": [
